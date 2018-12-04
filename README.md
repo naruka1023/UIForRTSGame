@@ -1,4 +1,4 @@
 # UIForRTSGame
 This is the first project I ever did on Unity back in my college days. Me and my friend are huge gamers. Given that at the time our journey to programming has just begun, we would like to have a go in developing a Real time strategy game, I was tasked in developing the UI for game, and my friend would then develop the backend behind the scene stuff with data management and what have you. This project is short-lived unfortunately, on account that we weren't able to integrate both of our work into one piece. Since the code for my work is in one of the computers in the college research lab where we developed the game, I wasn't able to retrieve my work and save it into github. So these two videos are all I have left of our very first programming venture. *insert sedimental tears here <br>
-https://www.youtube.com/watch?v=ix3uHTdjQGA
+https://www.youtube.com/watch?v=ix3uHTdjQGA<br>
 https://www.youtube.com/watch?v=-IhzYEbq3pA
